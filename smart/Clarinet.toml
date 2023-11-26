@@ -1,0 +1,11 @@
+[project]
+name = "smart"
+requirements = []
+
+[contracts.NFTMinter]
+path = "contracts/NFTMinter.clar"
+depends_on = []
+
+[contracts.rental]
+path = "contracts/rental.clar"
+depends_on = []
